@@ -1,4 +1,4 @@
-package kr.ac.kumoh.student01.w0601precardviewmodel
+package kr.ac.kumoh.s20200759.w0601cardviewmodel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

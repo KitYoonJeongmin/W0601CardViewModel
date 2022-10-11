@@ -1,11 +1,11 @@
-package kr.ac.kumoh.student01.w0601precardviewmodel
+package kr.ac.kumoh.s20200759.w0601cardviewmodel
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import androidx.activity.viewModels
 import androidx.lifecycle.Observer
-import kr.ac.kumoh.student01.w0601precardviewmodel.databinding.ActivityMainBinding
+import kr.ac.kumoh.s20200759.w0601cardviewmodel.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
